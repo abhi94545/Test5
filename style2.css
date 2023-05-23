@@ -1,0 +1,26 @@
+/* .parent {
+    border: 1px solid black; */
+    /* margin: 1rem; */
+    /* padding: 2rem 2rem; */
+    /* text-align: center;
+  } */
+  .parent{
+    margin-bottom: 1%;
+  }
+  .child1{
+    display: inline-block;
+    /* border: 1px solid red; */
+    /* padding: 1rem 1rem; */
+    /* vertical-align: middle; */
+    
+    
+  }
+  .child2{
+    display: inline-block;
+    /* border: 1px solid red; */
+    /* padding: 1rem 1rem; */
+    /* vertical-align:super; */
+    /* margin-left: 40%; */
+    position:absolute;
+    left:50%;
+  }
